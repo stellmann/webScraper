@@ -1,0 +1,9 @@
+C:\Users\f.stellmann\Desktop\reps\webScraper\webScraper\webScraper\bin\Debug\webScraper.exe.config
+C:\Users\f.stellmann\Desktop\reps\webScraper\webScraper\webScraper\bin\Debug\webScraper.exe
+C:\Users\f.stellmann\Desktop\reps\webScraper\webScraper\webScraper\bin\Debug\webScraper.pdb
+C:\Users\f.stellmann\Desktop\reps\webScraper\webScraper\webScraper\obj\Debug\webScraper.fMain.resources
+C:\Users\f.stellmann\Desktop\reps\webScraper\webScraper\webScraper\obj\Debug\webScraper.Properties.Resources.resources
+C:\Users\f.stellmann\Desktop\reps\webScraper\webScraper\webScraper\obj\Debug\webScraper.csproj.GenerateResource.cache
+C:\Users\f.stellmann\Desktop\reps\webScraper\webScraper\webScraper\obj\Debug\webScraper.csproj.CoreCompileInputs.cache
+C:\Users\f.stellmann\Desktop\reps\webScraper\webScraper\webScraper\obj\Debug\webScraper.exe
+C:\Users\f.stellmann\Desktop\reps\webScraper\webScraper\webScraper\obj\Debug\webScraper.pdb
